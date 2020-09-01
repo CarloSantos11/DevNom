@@ -61,6 +61,17 @@
   font-weight: 600;
 }
 
+.carousel-item{
+  background-color: rgba(17, 63, 29, 0.8);
+  
+}
+.progress-bar{
+  background-color: #45664a;
+}
+
+.btn-primary{ 
+  background-color: #2a4a2e;
+}
 /*-- About --*/
 #about
 {
@@ -90,3 +101,61 @@
   border-radius: 16px !important;
   margin-bottom: 20px;
 }
+/*---------------------Services----------------*/
+#services
+{
+  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(17, 63, 29, 0.8)), url(landing_page.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #efefef !important;
+  background-attachment: fixed;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#services h1 {
+  text-align: center;
+  color: #efefef !important; 
+  padding-bottom: 10px;
+}
+#services .this::after {
+  content: '';
+  color: #efefef; 
+  display: block;
+  height: 20px;
+  width: 170px; 
+  margin: 15px auto 5px;
+  border-top: solid;
+}
+.services {
+  margin-top: 40px;
+}
+.icon {
+  font-size: 40px;
+  margin: 20px auto;
+  padding: 20px;
+  height: 80px;
+  width: 80px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+.fa{
+  position: relative;
+  bottom: 12px;
+  right: 4px;
+}
+.fa2{
+  position: relative;
+  bottom: 11px;
+  right: 1px;
+}
+#services p {
+  font-size: 14px;
+  margin-top: 20px;
+  color: #ccc;
+}
+.services .col-md-4:hover {
+  background: #a09a56;
+  cursor: pointer;
+  transition: 0.7s;
+}
+/*#services*/
