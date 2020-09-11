@@ -9,3 +9,10 @@ completely on your own. Learning can feel isolated at times, it's nice to connec
 
 This benefits mentors because they can find learners to work on their projects or help them create content. 
 
+To Do:
+- Find someone to write a better readme
+- Finish MVP
+- Create something to pull users
+- Finish writing copy
+
+
