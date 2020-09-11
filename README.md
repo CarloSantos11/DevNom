@@ -15,4 +15,6 @@ To Do:
 - Create something to pull users
 - Finish writing copy
 
+Add Pull Request & Contribution Directions
+
 
