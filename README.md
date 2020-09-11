@@ -1,5 +1,3 @@
-# let's document changes here
-
 # DevNom is a fictional company
 ---
 
