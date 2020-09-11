@@ -44,7 +44,9 @@
 #slider {
   width: 100%;
 }
-
+.img-fluid {
+  width: 100%;
+}
 .carousel-caption
 {
   top: 50%;
@@ -121,7 +123,6 @@
   content: '';
   color: #efefef; 
   display: block;
-  height: 20px;
   width: 170px; 
   margin: 15px auto 5px;
   border-top: solid;
@@ -158,4 +159,25 @@
   cursor: pointer;
   transition: 0.7s;
 }
-/*#services*/
+/* -------------------- Team Members --------------- */
+#team
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #555;
+}
+h1
+{
+  text-align: center;
+  color: rgb(66 86 56) !important;
+  padding-bottom: 10px;
+}
+h1::after
+{
+  content: '';
+  background: rgb(66 86 56);
+  display: block;
+  height: 3px;
+  width: 170px;
+  margin: 20px auto 5px;
+}
