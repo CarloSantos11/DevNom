@@ -1,5 +1,4 @@
 # DevNom is a fictional company
----
 
 The idea is to create a service that allows us to pair learners with other learners as well as mentors with learners.
 Users will give their availability to program with others. They will have a dashboard of what they are currently working on as well as skills.
@@ -18,7 +17,6 @@ To Do:
 Add Pull Request & Contribution Directions
 
 # About DevNom
----
 
 There is a need to get ppl acclamaited to working remotely and getting skilled up with tech. We are here to help.
 Learn skills that can get you a remote job working for yourself or work remotely for an employer if you wish.
